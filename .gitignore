@@ -1,3 +1,6 @@
+# IDE staff
+.vscode/*
+
 # Prerequisites
 *.d
 
